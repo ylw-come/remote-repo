@@ -1,0 +1,2 @@
+本文使用的脑卒中数据healthcare-dataset-stroke-data来源于kaggle网站，共5110条数据，12个变量。
+其中，data数据集是利用生成对抗网络生成的数据集，共10110条。
